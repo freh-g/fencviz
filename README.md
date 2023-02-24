@@ -11,6 +11,10 @@ python3 fencviz.py -l data/gene_symbol.txt
 
 ```
 
+
+https://user-images.githubusercontent.com/104980753/221161672-edfbfc48-8c4d-4200-83f9-bf61fde05f47.mp4
+
+
 The flag -l is the list of genes that the model is taking as input. It consist in a txt file with space separated list of gene symbols.
 
 
