@@ -1,0 +1,8 @@
+biomapy == 0.2.3
+networkx == 2.8.6
+pandas == 1.5.3
+numpy == 1.23.2
+gprofiler-official == 1.0.0
+igraph == 0.10.4
+dash == 2.7.0
+dash_cytoscape == 0.3.0
